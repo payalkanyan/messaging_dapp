@@ -1,6 +1,6 @@
 {
-  "name": "messaging-dapp",
-  "homepage": "http://realnimish.github.io/avax-chat-dapp",
+  "name": "messaging_dapp",
+  "homepage": "https://payalkanyan.github.io/messaging_dapp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
